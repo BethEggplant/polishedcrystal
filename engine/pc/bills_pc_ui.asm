@@ -2657,7 +2657,7 @@ BillsPC_CanReleaseMon:
 ; Returns the following in a:
 ; 0: Can release
 ; 1: Can't release last healthy mon
-; 2: Can't release Egg
+; 2: Can release Egg
 ; 3: Can't release mon knowing HMs
 ; 4: Empty slot
 	; Is there even anything there?
